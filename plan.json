@@ -1,0 +1,742 @@
+{
+  "mode": "co-parenting",
+  "side": "A",
+  "nights": {
+    "2026-11-27": {
+      "date": "2026-11-27",
+      "tag": "wow",
+      "ideaId": "welcome-back",
+      "done": false,
+      "schedule": "Welcome back night",
+      "materials": "Small two-basket carrier\nA small treat for each kid\nFoam candy-cane stickers\nPaper and marker for the sign",
+      "notes": ""
+    },
+    "2026-11-28": {
+      "date": "2026-11-28",
+      "tag": "regular",
+      "ideaId": "train-day",
+      "done": false,
+      "schedule": "",
+      "materials": "Matching holiday pajamas\nFestive headbands\nTrain-ride tickets (real or printed)\nSign",
+      "notes": ""
+    },
+    "2026-11-29": {
+      "date": "2026-11-29",
+      "tag": "regular",
+      "ideaId": "marshmallow-swim",
+      "done": false,
+      "schedule": "",
+      "materials": "Toy pool or small dish\nBig marshmallows\nReindeer or other plush friend\nPaper sign",
+      "notes": ""
+    },
+    "2026-11-30": {
+      "date": "2026-11-30",
+      "tag": "regular",
+      "ideaId": "candy-cereal",
+      "done": false,
+      "schedule": "",
+      "materials": "Rolls of tablet candy\nGlass bowl and spoon\nSign",
+      "notes": ""
+    },
+    "2026-12-01": {
+      "date": "2026-12-01",
+      "tag": "regular",
+      "ideaId": "poop-corn",
+      "done": false,
+      "schedule": "",
+      "materials": "Popped popcorn\nJar of corn kernels\nSmall glass bowl\nSmall whiteboard",
+      "notes": ""
+    },
+    "2026-12-02": {
+      "date": "2026-12-02",
+      "tag": "away",
+      "ideaId": null,
+      "done": false,
+      "schedule": "",
+      "materials": "",
+      "notes": ""
+    },
+    "2026-12-03": {
+      "date": "2026-12-03",
+      "tag": "away",
+      "ideaId": null,
+      "done": false,
+      "schedule": "",
+      "materials": "",
+      "notes": ""
+    },
+    "2026-12-04": {
+      "date": "2026-12-04",
+      "tag": "facetime",
+      "ideaId": "where-are-you",
+      "done": false,
+      "schedule": "",
+      "materials": "A kid's notebook\nMulticolor pen (red and green)",
+      "notes": ""
+    },
+    "2026-12-05": {
+      "date": "2026-12-05",
+      "tag": "away",
+      "ideaId": null,
+      "done": false,
+      "schedule": "",
+      "materials": "",
+      "notes": ""
+    },
+    "2026-12-06": {
+      "date": "2026-12-06",
+      "tag": "away",
+      "ideaId": null,
+      "done": false,
+      "schedule": "",
+      "materials": "",
+      "notes": ""
+    },
+    "2026-12-07": {
+      "date": "2026-12-07",
+      "tag": "flexible",
+      "ideaId": "tea-party-math",
+      "done": false,
+      "schedule": "Switchover day",
+      "materials": "Doll-size table and chairs\nA red and a green candy cane (warm them to bend)\nTiny cake or treats\nA printed page of math problems for each kid",
+      "notes": ""
+    },
+    "2026-12-08": {
+      "date": "2026-12-08",
+      "tag": "regular",
+      "ideaId": "brush-itch",
+      "done": false,
+      "schedule": "",
+      "materials": "Mason jar\nA clean brush\nPaper sign",
+      "notes": ""
+    },
+    "2026-12-09": {
+      "date": "2026-12-09",
+      "tag": "away",
+      "ideaId": null,
+      "done": false,
+      "schedule": "",
+      "materials": "",
+      "notes": ""
+    },
+    "2026-12-10": {
+      "date": "2026-12-10",
+      "tag": "away",
+      "ideaId": null,
+      "done": false,
+      "schedule": "",
+      "materials": "",
+      "notes": ""
+    },
+    "2026-12-11": {
+      "date": "2026-12-11",
+      "tag": "flexible",
+      "ideaId": "magic-garden-seeds",
+      "done": false,
+      "schedule": "Switchover day",
+      "materials": "Two mugs filled with sugar\nSmall white mints (the seeds)\nPaper sign",
+      "notes": ""
+    },
+    "2026-12-12": {
+      "date": "2026-12-12",
+      "tag": "regular",
+      "ideaId": "magic-garden-sprouts",
+      "done": false,
+      "schedule": "",
+      "materials": "The sugar mugs from night 1\nMini candy canes\nPaper sign",
+      "notes": ""
+    },
+    "2026-12-13": {
+      "date": "2026-12-13",
+      "tag": "wow",
+      "ideaId": "elf-curling",
+      "done": false,
+      "schedule": "",
+      "materials": "Mini broom\nMarshmallows for the stones\nPainter's tape for the target\nPaper scoreboard",
+      "notes": ""
+    },
+    "2026-12-14": {
+      "date": "2026-12-14",
+      "tag": "regular",
+      "ideaId": "ice-fishing",
+      "done": false,
+      "schedule": "",
+      "materials": "Mini fishing pole\nBowl or sink\nAluminum foil for the ice\nFish-shaped crackers",
+      "notes": ""
+    },
+    "2026-12-15": {
+      "date": "2026-12-15",
+      "tag": "regular",
+      "ideaId": "pea-d-pants",
+      "done": false,
+      "schedule": "",
+      "materials": "Bowl of frozen peas\nA pair of grown-up pants\nToy boat (optional)\nPaper sign",
+      "notes": ""
+    },
+    "2026-12-16": {
+      "date": "2026-12-16",
+      "tag": "away",
+      "ideaId": null,
+      "done": false,
+      "schedule": "",
+      "materials": "",
+      "notes": ""
+    },
+    "2026-12-17": {
+      "date": "2026-12-17",
+      "tag": "away",
+      "ideaId": null,
+      "done": false,
+      "schedule": "",
+      "materials": "",
+      "notes": ""
+    },
+    "2026-12-18": {
+      "date": "2026-12-18",
+      "tag": "facetime",
+      "ideaId": "ceiling-hang",
+      "done": false,
+      "schedule": "",
+      "materials": "Removable poster putty or adhesive hooks\nStep stool",
+      "notes": ""
+    },
+    "2026-12-19": {
+      "date": "2026-12-19",
+      "tag": "away",
+      "ideaId": null,
+      "done": false,
+      "schedule": "",
+      "materials": "",
+      "notes": ""
+    },
+    "2026-12-20": {
+      "date": "2026-12-20",
+      "tag": "away",
+      "ideaId": null,
+      "done": false,
+      "schedule": "",
+      "materials": "",
+      "notes": ""
+    },
+    "2026-12-21": {
+      "date": "2026-12-21",
+      "tag": "flexible",
+      "ideaId": "early-present",
+      "done": false,
+      "schedule": "Switchover day",
+      "materials": "Two small gifts (one per kid)\nPaper sign\nRed and green markers",
+      "notes": ""
+    },
+    "2026-12-22": {
+      "date": "2026-12-22",
+      "tag": "wow",
+      "ideaId": null,
+      "done": false,
+      "schedule": "Goodbye night",
+      "materials": "",
+      "notes": ""
+    },
+    "2026-12-23": {
+      "date": "2026-12-23",
+      "tag": "away",
+      "ideaId": null,
+      "done": false,
+      "schedule": "",
+      "materials": "",
+      "notes": ""
+    },
+    "2026-12-24": {
+      "date": "2026-12-24",
+      "tag": "away",
+      "ideaId": null,
+      "done": false,
+      "schedule": "Elves head home",
+      "materials": "",
+      "notes": ""
+    }
+  },
+  "ideas": {
+    "welcome-back": {
+      "title": "Welcome back with baskets",
+      "image": "photos/wicker-baskets.jpg",
+      "alt": "A small two-basket wicker carrier with braided handles.",
+      "effort": "big",
+      "minutes": 25,
+      "supplies": [
+        "Small two-basket carrier",
+        "A small treat for each kid",
+        "Foam candy-cane stickers",
+        "Paper and marker for the sign"
+      ],
+      "setup": "The elves sit beside a tiny carrier with one basket per kid, a small treat in each. Spell WE'RE BACK! in candy-cane stickers on a mirror or window.",
+      "signs": [
+        "We're BACK!! We missed you SO much!",
+        "Surprise! One basket for each of you!",
+        "The North Pole was chilly. We're happy to be home!"
+      ],
+      "signPick": 0,
+      "signCustom": ""
+    },
+    "ice-fishing": {
+      "title": "Ice fishing for crackers",
+      "image": "photos/fishing-pole.jpg",
+      "alt": "A tiny wooden fishing pole with a wooden fish, still in its bag.",
+      "effort": "quick",
+      "minutes": 10,
+      "supplies": [
+        "Mini fishing pole",
+        "Bowl or sink",
+        "Aluminum foil for the ice",
+        "Fish-shaped crackers"
+      ],
+      "setup": "Cover a bowl with foil, poke a hole in the middle, and put fish crackers inside. The elves fish through the hole.",
+      "signs": [
+        "Gone fishin'! 🎣",
+        "We caught breakfast! (Crackers only)",
+        "Ice fishing at the North Pole… we mean the kitchen."
+      ],
+      "signPick": 0,
+      "signCustom": ""
+    },
+    "elf-curling": {
+      "title": "Elf curling",
+      "image": "photos/straw-broom.jpg",
+      "alt": "A small straw broom held in one hand.",
+      "effort": "big",
+      "minutes": 20,
+      "supplies": [
+        "Mini broom",
+        "Marshmallows for the stones",
+        "Painter's tape for the target",
+        "Paper scoreboard"
+      ],
+      "setup": "Tape a target on the hallway floor or a counter. Marshmallows are the stones. Pose the elves mid-sweep and post a scoreboard.",
+      "signs": [
+        "Elf Curling Championship! Score: 3 to 4",
+        "SWEEP! SWEEP! Who wins the rematch?",
+        "Winter Elf Games: curling day!"
+      ],
+      "signPick": 0,
+      "signCustom": ""
+    },
+    "grocery-run": {
+      "title": "Elf grocery run",
+      "image": "photos/mini-grocery-bag.jpg",
+      "alt": "A mini paper grocery bag with handles and a red tag that says gummy candy.",
+      "effort": "quick",
+      "minutes": 10,
+      "supplies": [
+        "Mini paper grocery bag of gummy candy",
+        "Paper and marker for a tiny shopping list"
+      ],
+      "setup": "The elves come home from the store with a mini grocery bag. Unpack a few gummies on the counter like tiny groceries, with a little shopping list beside them.",
+      "signs": [
+        "We went grocery shopping! Guess what we bought? 🛒",
+        "Shopping list: gummies, gummies, MORE gummies.",
+        "Elf-sized groceries for elf-sized snacks!"
+      ],
+      "signPick": 0,
+      "signCustom": ""
+    },
+    "candy-cane-doors": {
+      "title": "Candy-cane doors (FaceTime)",
+      "image": "photos/candy-cane-stickers.jpg",
+      "alt": "A box of red, green and white foam candy-cane stickers.",
+      "effort": "medium",
+      "minutes": 20,
+      "supplies": [
+        "Foam candy-cane stickers"
+      ],
+      "setup": "While the kids are at the other home, the elves cover the bedroom doors in candy-cane stickers. Show a quick peek on the call and save the full reveal.",
+      "story": "We got bored without you, so we decorated your doors! You'll see the rest when you get home.",
+      "signs": [
+        "We decorated while you were gone! 🍭",
+        "Candy canes EVERYWHERE!"
+      ],
+      "signPick": 0,
+      "signCustom": ""
+    },
+    "drank-too-fast": {
+      "title": "Drank too fast",
+      "image": null,
+      "alt": "",
+      "effort": "quick",
+      "minutes": 5,
+      "supplies": [
+        "Empty water bottle",
+        "Dry-erase board or paper sign",
+        "Battery candles (optional)"
+      ],
+      "setup": "Push one elf head-first into an empty water bottle so only the legs stick out. The baby elf sits nearby looking worried.",
+      "signs": [
+        "I was so thirsty but I think I drank too fast!",
+        "Help! I'm stuck in the bottle!",
+        "Stay hydrated, kids. Just not like this."
+      ],
+      "signPick": 0,
+      "signCustom": ""
+    },
+    "poop-corn": {
+      "title": "Poop-corn party",
+      "image": "photos/poop-corn.jpg",
+      "alt": "An elf lounges in scattered popcorn next to an open jar of corn kernels. A baby elf peeks out of a glass bowl, and a whiteboard sign asks if you'd like some poop-corn.",
+      "effort": "quick",
+      "minutes": 5,
+      "supplies": [
+        "Popped popcorn",
+        "Jar of corn kernels",
+        "Small glass bowl",
+        "Small whiteboard"
+      ],
+      "setup": "Scatter popcorn around an open jar of kernels. One elf lounges in the mess with a hand in the jar; the baby elf hides in a glass bowl. Write the sign on a small whiteboard.",
+      "signs": [
+        "Happy Day 2 of December! Would you like to try some of my poop-corn to celebrate?",
+        "Fresh poop-corn! Help yourself!",
+        "We made a snack. Don't ask why it's called poop-corn."
+      ],
+      "signPick": 0,
+      "signCustom": ""
+    },
+    "tea-party-math": {
+      "title": "Tea party with math problems",
+      "image": "photos/tea-party.jpg",
+      "alt": "An elf sits at a tiny white tea table with a pink cake, marshmallow treats, and a red and a green candy cane bent into a 6 and a 7. A baby elf with a pacifier sits in a pink chair.",
+      "effort": "medium",
+      "minutes": 20,
+      "supplies": [
+        "Doll-size table and chairs",
+        "A red and a green candy cane (warm them to bend)",
+        "Tiny cake or treats",
+        "A printed page of math problems for each kid"
+      ],
+      "setup": "Set up a tiny tea party. Bend a red and a green candy cane into a 6 and a 7 on the table. Leave each kid a page of elf-themed math problems at their grade level (candy canes hidden, jingle bells found).",
+      "signs": [
+        "Here are some 6-7 math problems!",
+        "Tea party time! Can you solve our math problems?",
+        "Elf school is in session! Pencils ready!"
+      ],
+      "signPick": 0,
+      "signCustom": ""
+    },
+    "candy-cereal": {
+      "title": "Candy cereal breakfast",
+      "image": null,
+      "alt": "",
+      "effort": "quick",
+      "minutes": 10,
+      "supplies": [
+        "Rolls of tablet candy",
+        "Glass bowl and spoon",
+        "Sign"
+      ],
+      "setup": "Unwrap a pile of tablet candies into a bowl like cereal, spoon in. Leave the empty wrappers everywhere.",
+      "signs": [
+        "Yummy! I love my candy cereal for breakfast!",
+        "Part of a balanced elf breakfast!",
+        "We ate breakfast without you. Sorry not sorry!"
+      ],
+      "signPick": 0,
+      "signCustom": ""
+    },
+    "brush-itch": {
+      "title": "The itchy-bottom brush",
+      "image": "photos/brush-jar.jpg",
+      "alt": "An elf upside down in a glass mason jar with only its hat and legs sticking out, a blue brush handle beside it, on a wood floor by a window.",
+      "effort": "quick",
+      "minutes": 5,
+      "supplies": [
+        "Mason jar",
+        "A clean brush",
+        "Paper sign"
+      ],
+      "setup": "Tuck an elf upside down in a mason jar with a clean brush sticking out beside him.",
+      "signs": [
+        "Had a butt itch. Thanks for letting me use the butt brush!",
+        "Don't ask. Just don't.",
+        "Itch: solved."
+      ],
+      "signPick": 0,
+      "signCustom": ""
+    },
+    "pea-d-pants": {
+      "title": "Pea-d in the pants",
+      "image": "photos/pea-d-pants.jpg",
+      "alt": "In an empty bathtub, an elf sits in a blue toy boat. Next to it, a pair of brown pants holds a small bowl of green peas. A handwritten sign is taped to the tub wall.",
+      "effort": "quick",
+      "minutes": 10,
+      "supplies": [
+        "Bowl of frozen peas",
+        "A pair of grown-up pants",
+        "Toy boat (optional)",
+        "Paper sign"
+      ],
+      "setup": "Set a bowl of peas inside a pair of grown-up pants. The elf sits nearby in a toy boat in the empty bathtub.",
+      "signs": [
+        "I came upstairs! Do you like my hiding place? I also \"pea-d\" in your Mommy's pants! Hahaha",
+        "Oops, I pea-d!",
+        "Peas excuse me!"
+      ],
+      "signPick": 0,
+      "signCustom": ""
+    },
+    "marshmallow-swim": {
+      "title": "Marshmallow swim",
+      "image": "photos/marshmallow-swim.jpg",
+      "alt": "In an empty white bathtub, an elf lies in a toy pool filled with big marshmallows under a thatched toy umbrella, next to a reindeer plush in a knit scarf. The sign says Went swimming!!!",
+      "effort": "quick",
+      "minutes": 10,
+      "supplies": [
+        "Toy pool or small dish",
+        "Big marshmallows",
+        "Reindeer or other plush friend",
+        "Paper sign"
+      ],
+      "setup": "In the empty bathtub, lay the elf in a toy pool full of marshmallows under a little umbrella, with a reindeer friend lounging beside it.",
+      "signs": [
+        "Went swimming!!!",
+        "The water is fine! (It's marshmallows.)",
+        "Pool party at the North Pole!"
+      ],
+      "signPick": 0,
+      "signCustom": ""
+    },
+    "reindeer-golf": {
+      "title": "Reindeer golf",
+      "image": null,
+      "alt": "",
+      "effort": "quick",
+      "minutes": 10,
+      "supplies": [
+        "Toy golf club",
+        "Tiny ball",
+        "Reindeer plush with a visor",
+        "Small toy house or cup for the hole"
+      ],
+      "setup": "Set up a mini golf hole on a counter. The elf takes a swing while the reindeer caddies.",
+      "signs": [
+        "FORE!",
+        "Hole in one! (Not really.)",
+        "Practicing for the North Pole Open."
+      ],
+      "signPick": 0,
+      "signCustom": ""
+    },
+    "elf-pets": {
+      "title": "Elf pets and tic-tac-toe",
+      "image": null,
+      "alt": "",
+      "effort": "quick",
+      "minutes": 10,
+      "supplies": [
+        "Small pet figurines",
+        "Tic-tac-toe card or paper grid",
+        "Red and green gift bows"
+      ],
+      "setup": "Draw a tic-tac-toe grid with candy-cane lines. Red and green bows are the X's and O's. The elf's new pets watch the game.",
+      "signs": [
+        "I got my own elf pets. Please don't touch or they will lose their power!!",
+        "Meet our new pets! Look, don't touch!",
+        "Who wants to play the winner?"
+      ],
+      "signPick": 0,
+      "signCustom": ""
+    },
+    "train-day": {
+      "title": "Holiday train day",
+      "image": null,
+      "alt": "",
+      "effort": "big",
+      "minutes": 30,
+      "supplies": [
+        "Matching holiday pajamas",
+        "Festive headbands",
+        "Train-ride tickets (real or printed)",
+        "Sign"
+      ],
+      "setup": "On the morning of a holiday outing, the elves deliver matching pajamas and headbands for each kid with the tickets laid out in front.",
+      "signs": [
+        "We're going to the North Pole on the train today. Take me with you!!!",
+        "All aboard! Pajamas required!",
+        "Tickets? Check. Pajamas? Check. Elves? Coming too!"
+      ],
+      "signPick": 0,
+      "signCustom": ""
+    },
+    "cake-decorating": {
+      "title": "Cake decorating",
+      "image": "photos/cake-decorating.jpg",
+      "alt": "An elf sits at a tiny green bakery table with two mini cakes covered in sprinkles, next to a toy mixing bowl and rolling pin. The sign says I wanted to decorate some cakes too!!",
+      "effort": "medium",
+      "minutes": 15,
+      "supplies": [
+        "Doll-size table",
+        "Two small treats (brownie bites or crispy-rice squares)",
+        "Sprinkles",
+        "Toy bowl and rolling pin",
+        "Parchment paper",
+        "Paper sign"
+      ],
+      "setup": "Set the elf at a tiny table with two small treats on parchment, sprinkles scattered on top, and a toy bowl and rolling pin beside it. Good for a night after the family bakes.",
+      "signs": [
+        "I wanted to decorate some cakes too!!",
+        "Elf bakery is open!",
+        "I saved you a cake. Maybe."
+      ],
+      "signPick": 0,
+      "signCustom": ""
+    },
+    "where-are-you": {
+      "title": "Where are you?",
+      "image": "photos/where-are-you.jpg",
+      "alt": "A notebook page with red and green letters reading Rudy was here, where are you? A baby elf and a snowman pen sit on the page.",
+      "effort": "quick",
+      "minutes": 5,
+      "supplies": [
+        "A kid's notebook",
+        "Multicolor pen (red and green)"
+      ],
+      "setup": "While the kids are at the other home, an elf writes in one of their notebooks, alternating red and green letters, and leaves the pen on the page. On the FaceTime call, the elves can ask where everyone went.",
+      "signs": [
+        "{elf} was here. Where are you?",
+        "We missed you! Come back soon!",
+        "We looked everywhere for you!"
+      ],
+      "signPick": 0,
+      "signCustom": "",
+      "story": "We looked all over the house for you, then wrote in your notebook!"
+    },
+    "ceiling-hang": {
+      "title": "Hanging from the ceiling",
+      "image": "photos/ceiling-hang.jpg",
+      "alt": "An elf hangs upside down from a white ceiling by its feet, arms out, above an arched nook. The sparkly starburst topper of a lit Christmas tree glows below.",
+      "effort": "quick",
+      "minutes": 5,
+      "supplies": [
+        "Removable poster putty or adhesive hooks",
+        "Step stool"
+      ],
+      "setup": "Stick the elf's feet to the ceiling with removable putty so it hangs upside down above the Christmas tree. No sign needed.",
+      "signs": [
+        "Just hanging around!",
+        "The view is great from up here!",
+        "Don't tell Santa I'm upside down."
+      ],
+      "signPick": 0,
+      "signCustom": "",
+      "story": "We got bored without you, so we tried hanging from the ceiling!"
+    },
+    "early-present": {
+      "title": "An early present",
+      "image": "photos/early-present.jpg",
+      "alt": "An elf holds a handwritten sign that says 7 days until Christmas, here is an early present for being good. Two small holiday toys, a gingerbread man and a Christmas tree, lie at its feet.",
+      "effort": "quick",
+      "minutes": 5,
+      "supplies": [
+        "Two small gifts (one per kid)",
+        "Paper sign",
+        "Red and green markers"
+      ],
+      "setup": "The elf sits holding a countdown sign with a small present for each kid laid at its feet. Change the number to match the night.",
+      "signs": [
+        "4 days until Christmas! (Here is an early present for being good)",
+        "Santa said you've been extra good!",
+        "A little something before the big day!"
+      ],
+      "signPick": 0,
+      "signCustom": ""
+    },
+    "magic-garden-seeds": {
+      "title": "Magic garden, night 1: plant the seeds",
+      "image": "photos/magic-garden-seeds.jpg",
+      "alt": "An elf sits between two white mugs filled with sugar, with two small white mints on the table. The sign says Magic garden! Put these seeds in sugar and wait 1 day!!",
+      "effort": "quick",
+      "minutes": 5,
+      "supplies": [
+        "Two mugs filled with sugar",
+        "Small white mints (the seeds)",
+        "Paper sign"
+      ],
+      "setup": "Fill a mug with sugar for each kid and leave a mint 'seed' beside each. The kids plant them in the morning. Follow with the sprouts night, then swap in big candy canes for the fully grown plant.",
+      "signs": [
+        "Magic garden! Put these seeds in sugar and wait 1 day!!",
+        "Plant a seed, grow a candy cane!",
+        "Elf gardening class starts now."
+      ],
+      "signPick": 0,
+      "signCustom": ""
+    },
+    "magic-garden-sprouts": {
+      "title": "Magic garden, night 2: sprouts",
+      "image": "photos/magic-garden-sprouts.jpg",
+      "alt": "An elf sits between two white mugs of sugar, each with a small candy cane sprouting from it. The sign says Wait one more day and the magic plant will be all grown.",
+      "effort": "quick",
+      "minutes": 5,
+      "supplies": [
+        "The sugar mugs from night 1",
+        "Mini candy canes",
+        "Paper sign"
+      ],
+      "setup": "Take out the mints and push a mini candy cane into each mug of sugar so it looks like a sprout. On the next night, swap them for full-size candy canes.",
+      "signs": [
+        "Wait one more day and the magic plant will be all grown!",
+        "They're sprouting!",
+        "Almost ready to pick!"
+      ],
+      "signPick": 0,
+      "signCustom": ""
+    },
+    "tree-swing": {
+      "title": "Swinging in the tree",
+      "image": "photos/tree-swing.jpg",
+      "alt": "An elf sits on a swing made from a toilet paper tube hanging in a lit Christmas tree, holding a sign that says Thanks for the push, next to a gray teddy bear.",
+      "effort": "quick",
+      "minutes": 10,
+      "supplies": [
+        "Toilet paper tube",
+        "String or ribbon",
+        "A plush friend",
+        "Paper sign"
+      ],
+      "setup": "Hang a toilet paper tube from a sturdy branch with string to make a swing. Sit the elf on it with a plush friend nearby who 'pushed' it.",
+      "signs": [
+        "Thanks for the push!",
+        "Wheee! Higher!",
+        "Best seat in the tree!"
+      ],
+      "signPick": 0,
+      "signCustom": ""
+    }
+  },
+  "supplies": {
+    "wicker-baskets": {
+      "name": "Two-basket carrier",
+      "image": "photos/wicker-baskets.jpg",
+      "alt": "Small two-basket wicker carrier with braided handles",
+      "uses": "Welcome back night"
+    },
+    "candy-cane-stickers": {
+      "name": "Foam candy-cane stickers",
+      "image": "photos/candy-cane-stickers.jpg",
+      "alt": "Box of red, green and white foam candy-cane stickers",
+      "uses": "Welcome back sign · Candy-cane doors"
+    },
+    "fishing-pole": {
+      "name": "Mini wooden fishing pole",
+      "image": "photos/fishing-pole.jpg",
+      "alt": "Tiny wooden fishing pole and wooden fish in a bag",
+      "uses": "Ice fishing"
+    },
+    "straw-broom": {
+      "name": "Mini straw broom",
+      "image": "photos/straw-broom.jpg",
+      "alt": "Small straw broom",
+      "uses": "Elf curling · Cereal mess"
+    },
+    "mini-grocery-bag": {
+      "name": "Mini grocery bag of gummies",
+      "image": "photos/mini-grocery-bag.jpg",
+      "alt": "Mini paper grocery bag of gummy candy",
+      "uses": "Elf grocery run"
+    }
+  }
+}

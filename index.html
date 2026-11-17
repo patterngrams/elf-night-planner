@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Elf Night Planner</title>
+<meta name="description" content="Plan a season of elf nights, for one home or two.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&family=Caveat:wght@600;700&display=swap">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#calendar">Skip to the calendar</a>
+<canvas id="snow" aria-hidden="true"></canvas>
+<div class="wrap">
+  <header class="hero">
+    <div class="lights" aria-hidden="true"><i class="bulb"></i><i class="bulb"></i><i class="bulb"></i><i class="bulb"></i><i class="bulb"></i><i class="bulb"></i><i class="bulb"></i><i class="bulb"></i><i class="bulb"></i><i class="bulb"></i><i class="bulb"></i><i class="bulb"></i></div>
+    <div class="hero-inner">
+      <div>
+        <div class="eyebrow" id="eyebrow">Elf plan</div>
+        <h1 id="elf-names">Our elves</h1>
+        <p><span id="intro">Every elf night, planned ahead.</span> Tap a night to see the setup and the sign, or drag an idea to a different night.</p>
+      </div>
+      <div class="count" id="countdown"></div>
+    </div>
+    <div class="progress">
+      <div class="track" role="img" id="progress-track" aria-label="Season progress"><div class="fill" id="progress-fill" style="width:0%"></div></div>
+      <div class="label"><span id="progress-text">Loading the plan…</span><span id="planned-text"></span></div>
+    </div>
+  </header>
+
+  <fieldset class="mode">
+    <legend>Planner type</legend>
+    <div class="radios">
+      <label><input type="radio" name="mode" value="co-parenting" checked> Co-parenting</label>
+      <label><input type="radio" name="mode" value="everyday"> Every night at home</label>
+    </div>
+    <div id="side-row" class="side-row" role="radiogroup" aria-labelledby="side-label">
+      <span id="side-label" class="side-label">Whose nights?</span>
+      <div class="radios">
+        <label><input type="radio" name="side" value="A" checked> Home A</label>
+        <label><input type="radio" name="side" value="B"> Home B</label>
+      </div>
+    </div>
+    <p class="hint" id="mode-hint"></p>
+  </fieldset>
+
+  <div id="todo" class="todo" role="status"></div>
+
+  <main>
+    <section aria-labelledby="next-h">
+      <div class="sec-head"><h2 id="next-h">Next elf night</h2><p id="next-sub"></p></div>
+      <div id="spot"></div>
+    </section>
+
+    <section aria-labelledby="cal-h" id="calendar" tabindex="-1">
+      <div class="sec-head"><h2 id="cal-h">The whole season</h2>
+        <p>Tags: <span class="chip t-regular">Regular</span> <span class="chip t-flexible">Flexible</span> <span class="chip t-wow">Wow</span> <span class="chip t-facetime" id="legend-facetime">FaceTime</span> <span class="chip t-away" id="away-legend">Other home</span></p></div>
+      <div class="cal" id="cal" role="list"></div>
+      <p class="status" id="status" role="status" aria-live="polite"></p>
+    </section>
+
+    <section aria-labelledby="tray-h">
+      <div class="sec-head"><h2 id="tray-h">Idea tray</h2><p>Ideas without a night yet. Drag one onto a night, or use Move.</p></div>
+      <div class="tray" id="tray" role="list"></div>
+    </section>
+
+    <section aria-labelledby="sup-h">
+      <div class="sec-head"><h2 id="sup-h">Supplies on hand</h2><p>Things you already have.</p></div>
+      <div class="sup" id="sup"></div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="cane" aria-hidden="true"></div>
+    <section aria-labelledby="save-h" class="save">
+      <h2 id="save-h">Your plan</h2>
+      <p>Changes save in this browser only. Export a copy to back it up or move it to another device.</p>
+      <div class="save-row">
+        <button class="btn primary" type="button" id="export">Export plan</button>
+        <label class="btn" for="import-file">Import plan</label>
+        <input type="file" id="import-file" accept="application/json,.json" class="sr-only">
+        <button class="btn" type="button" id="reset">Reset to plan.json</button>
+      </div>
+      <div id="reset-confirm" class="confirm" hidden>
+        <p>Throw away the changes saved in this browser and reload the plan from plan.json?</p>
+        <button class="btn primary" type="button" id="reset-yes">Yes, reset</button>
+        <button class="btn" type="button" id="reset-no">Keep my changes</button>
+      </div>
+    </section>
+    <p class="credit">Elf Night Planner · free software under the AGPL-3.0.</p>
+  </footer>
+</div>
+
+<div id="mover" class="mover" hidden>
+  <span id="mover-text"></span>
+  <span style="display:flex;gap:8px;flex-wrap:wrap">
+    <button class="btn small" id="mover-tray" type="button">Send to tray</button>
+    <button class="btn small" id="mover-cancel" type="button">Cancel</button>
+  </span>
+</div>
+
+<dialog id="dlg" aria-labelledby="dlg-title"><div class="dlg-top cane" aria-hidden="true"></div><div class="dlg" id="dlg-body"></div></dialog>
+<div id="live" class="sr-only" aria-live="assertive"></div>
+<div id="toast" class="toast" hidden></div>
+<script src="season.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
