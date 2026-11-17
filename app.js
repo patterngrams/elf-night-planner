@@ -465,3 +465,21 @@
   reduce.addEventListener?.("change", startSnow);
   startSnow();
 })();
+
+// Demo gift tag: only on the public demo sites (or with ?demo), so forks don't show it.
+(() => {
+  const tag = document.getElementById("demo-tag");
+  if (!tag) return;
+  const demoHosts = ["patterngrams.github.io", "elves.patterngrams.com"];
+  const isDemo = demoHosts.includes(location.hostname) || new URLSearchParams(location.search).has("demo");
+  let hidden = false;
+  try { hidden = sessionStorage.getItem("elf-demo-tag") === "hidden"; } catch {}
+  if (!isDemo || hidden) return;
+  tag.hidden = false;
+  document.body.classList.add("has-demo-tag");
+  tag.querySelector(".demo-x").addEventListener("click", () => {
+    tag.hidden = true;
+    document.body.classList.remove("has-demo-tag");
+    try { sessionStorage.setItem("elf-demo-tag", "hidden"); } catch {}
+  });
+})();
