@@ -8,7 +8,7 @@
       "ideaId": "welcome-back",
       "done": false,
       "schedule": "Welcome back night",
-      "materials": "Small two-basket carrier\nA small treat for each kid\nFoam candy-cane stickers\nPaper and marker for the sign",
+      "materials": "Large paper mailer envelope\nCraft knife or scissors\nSanta Special Delivery label and North Pole stamp (printed or drawn)\nKnitted elf hat and scarf (optional)\nPaper and marker for the sign",
       "notes": ""
     },
     "2026-11-28": {
@@ -257,22 +257,23 @@
   },
   "ideas": {
     "welcome-back": {
-      "title": "Welcome back with baskets",
-      "image": "photos/wicker-baskets.jpg",
-      "alt": "A small two-basket wicker carrier with braided handles.",
-      "effort": "big",
-      "minutes": 25,
+      "title": "Special delivery from the North Pole",
+      "image": "photos/special-delivery.jpg",
+      "alt": "An elf in a knitted red-and-white striped hat pokes out of a hole in a mail envelope, one arm reaching out. The envelope is labeled Santa Special Delivery with a North Pole postmark, and a handwritten note reads: Let me back inside!!! It's cold out here.",
+      "effort": "medium",
+      "minutes": 15,
       "supplies": [
-        "Small two-basket carrier",
-        "A small treat for each kid",
-        "Foam candy-cane stickers",
+        "Large paper mailer envelope",
+        "Craft knife or scissors",
+        "Santa Special Delivery label and North Pole stamp (printed or drawn)",
+        "Knitted elf hat and scarf (optional)",
         "Paper and marker for the sign"
       ],
-      "setup": "The elves sit beside a tiny carrier with one basket per kid, a small treat in each. Spell WE'RE BACK! in candy-cane stickers on a mirror or window.",
+      "setup": "Cut a hole near the top of a big mail envelope. Tuck the elf inside so the head and one arm poke out, as if they mailed themselves home. Add a Santa Special Delivery label and a North Pole stamp, and tape the sign beside the elf. Leave it by the front door or on the doormat.",
       "signs": [
-        "We're BACK!! We missed you SO much!",
-        "Surprise! One basket for each of you!",
-        "The North Pole was chilly. We're happy to be home!"
+        "LET ME BACK INSIDE!!! It's cold out here!",
+        "Special delivery! I mailed myself home!",
+        "We're BACK!! We missed you SO much!"
       ],
       "signPick": 0,
       "signCustom": ""
@@ -712,13 +713,13 @@
       "name": "Two-basket carrier",
       "image": "photos/wicker-baskets.jpg",
       "alt": "Small two-basket wicker carrier with braided handles",
-      "uses": "Welcome back night"
+      "uses": "Bonus treat idea"
     },
     "candy-cane-stickers": {
       "name": "Foam candy-cane stickers",
       "image": "photos/candy-cane-stickers.jpg",
       "alt": "Box of red, green and white foam candy-cane stickers",
-      "uses": "Welcome back sign · Candy-cane doors"
+      "uses": "Candy-cane doors"
     },
     "fishing-pole": {
       "name": "Mini wooden fishing pole",
