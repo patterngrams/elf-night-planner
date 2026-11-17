@@ -706,6 +706,68 @@
       ],
       "signPick": 0,
       "signCustom": ""
+    },
+    "kitkat-jenga": {
+      "title": "Kit-Kat Jenga",
+      "image": "photos/kitkat-jenga.jpg",
+      "alt": "An elf and a plush gingerbread friend sit at the dinner table playing Jenga with a tower of Kit-Kat bars stacked on a red plaid plate. A pile of Kit-Kat wrappers sits beside them, and a handwritten sign reads: Kit-Kat Jenga, Wanna play?",
+      "effort": "quick",
+      "minutes": 10,
+      "supplies": [
+        "Snack-size Kit-Kat bars",
+        "Plate",
+        "A stuffed-animal friend for the elf",
+        "Paper and marker for the sign"
+      ],
+      "setup": "Unwrap a handful of snack-size Kit-Kats and break them into single fingers. Stack them in a crisscross tower on a plate. Sit the elf and a stuffed friend on either side, with the elf reaching for a piece. Leave the wrappers piled nearby.",
+      "signs": [
+        "Kit-Kat Jenga! Wanna play?",
+        "Don't let the tower fall!",
+        "Whoever wins eats the tower!"
+      ],
+      "signPick": 0,
+      "signCustom": ""
+    },
+    "snow-angels": {
+      "title": "Elf snow angels",
+      "image": "photos/snow-angels.jpg",
+      "alt": "An elf lies on its back with arms and legs spread on a black tray full of mini marshmallows, making a snow angel. A small sign reads Elf Snow Angels, and a child's pencil drawing of the elf is propped against the door behind the tray.",
+      "effort": "quick",
+      "minutes": 10,
+      "supplies": [
+        "Baking tray or boot tray",
+        "A bag of mini marshmallows",
+        "Paper and markers for the sign"
+      ],
+      "setup": "Pour mini marshmallows over a tray. Lay the elf on its back with arms and legs spread, and push the marshmallows away a little around it so it looks like a snow angel. Prop the sign by the elf's head. If your kids have drawn the elf, stand the drawing up behind the tray.",
+      "signs": [
+        "ELF SNOW ANGELS ★★★",
+        "No snow inside? No problem!",
+        "Your turn! Make one in real snow!"
+      ],
+      "signPick": 0,
+      "signCustom": ""
+    },
+    "help-me": {
+      "title": "Help me!",
+      "image": "photos/help-me.jpg",
+      "alt": "An elf dangles from a loop of twine hung from a magnet board, arms stretched up. Magnet letters beside it spell help me. Below, a plush reindeer and a crowd of toy dinosaurs gather at the elf's feet.",
+      "effort": "quick",
+      "minutes": 10,
+      "supplies": [
+        "Twine or string",
+        "Command hook or strong magnet",
+        "Magnet letters",
+        "Toy dinosaurs and a stuffed reindeer (or any toys)"
+      ],
+      "setup": "Hang a loop of twine from a hook or magnet on the fridge or a magnet board. Hook the elf's hands through it so it dangles just out of reach. Crowd toy dinosaurs and a stuffed animal underneath, all looking up. Spell HELP ME in magnet letters next to the elf.",
+      "signs": [
+        "HELP ME!",
+        "The dinosaurs woke up!",
+        "I'm hanging on! Send backup!"
+      ],
+      "signPick": 0,
+      "signCustom": ""
     }
   },
   "supplies": {
