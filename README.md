@@ -2,6 +2,8 @@
 
 A festive, accessible planner for a season of elf-on-the-shelf nights. It works for **one home or two**.
 
+**Try it:** [patterngrams.github.io/elf-night-planner](https://patterngrams.github.io/elf-night-planner/)
+
 Coming up with elf ideas isn't the hard part. Fitting them to the calendar is. This planner starts from your schedule, tags every night, and gives each one an idea, a materials list, notes, and a sign "written" by the elves.
 
 Pick a **planner type** at the top of the page:
