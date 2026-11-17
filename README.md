@@ -1,6 +1,6 @@
 # Elf Night Planner 🎄
 
-A festive, accessible planner for a season of elf-on-the-shelf nights. It works for **one home or two**.
+A festive, accessible planner for a season of elf-on-the-shelf nights, built to support all families, including co-parenting arrangements.
 
 **Try it:** [elves.patterngrams.com](https://elves.patterngrams.com)
 
